@@ -1,63 +1,169 @@
 Privacy Policy – Mixed Match
-Last updated: August 19, 2026
-MixedMatch is a free game developed by Jussi Games.
+
+Last updated: September 28, 2026
+
+Mixed Match is a game developed by Jussi Games.
+
 Information We Collect
-MixedMatch may collect and process the following information:
+
+Mixed Match may collect and process the following information:
+
 Information you provide
 
 A player display name (for example when you enter a name in the game). This name may be shown on in-game and online leaderboards.
 
 Information collected automatically
 
-An anonymous player identifier created by Unity Authentication (used to save and display your scores; it is not your real name, email, or phone number)
-Game scores and related gameplay results submitted to online leaderboards
-Basic technical data that may be processed by Unity Gaming Services when the game connects to the internet 
-(for example IP address as part of normal service operation)
+An anonymous player identifier created by Unity Authentication (used to save and display your scores; it is not your real name, email, or phone number).
 
-The game does not require you to create an account with email or password, and it does not ask for your phone number or precise location.
+Game scores and related gameplay results submitted to online leaderboards.
+
+Basic technical data that may be processed by Unity Gaming Services when the game connects to the internet, such as an IP address as part of normal service operation.
+
+When advertising is enabled, Google Mobile Ads (AdMob) may automatically collect or process certain technical and usage information. This may include:
+
+- IP address, which may be used to estimate general location
+- Device and advertising identifiers
+- App and advertisement interactions, such as app launches, taps, and ad views
+- Diagnostic and performance information
+
+This information may be used by Google for purposes such as providing advertising, analytics, measuring advertising performance, and fraud prevention.
+
+The game does not require you to create an account with an email address or password, and it does not ask for your phone number or precise location.
+
+
 How We Use Information
-We use this information to:
 
-Display local and online leaderboards
-Save high scores and game progress
-Operate and improve the game’s online features
+We use information to:
+
+- Display local and online leaderboards
+- Save high scores and game progress
+- Operate and improve the game’s online features
+- Display and measure advertising where advertising is enabled
+- Help prevent fraud and abuse
+
 
 Data Storage
+
 On your device
-Game settings, local high scores, and similar data may be stored locally on your device (for example using the device’s local storage).
+
+Game settings, local high scores, game progress, advertising/privacy preferences, and similar data may be stored locally on your device.
+
 This data stays on your device unless you clear the app data or uninstall the game.
+
 Online services
+
 When online features are used, scores and your chosen display name may be sent to Unity Gaming Services (Unity Technologies) so that global leaderboards can work.
+
 Unity processes this data according to its own privacy terms and policies.
+
+When advertising is enabled, Google Mobile Ads may process advertising, device, usage, and technical information as described in Google's privacy policies.
+
+
+Advertising and Consent
+
+Mixed Match may display advertisements provided by Google AdMob.
+
+Depending on your location and applicable law, you may be asked for consent or other privacy choices before advertising-related data is processed.
+
+For users in regions where consent or privacy choices are required, Mixed Match uses Google's consent management tools to present the available choices.
+
+You may be able to change or withdraw your privacy choices later through the privacy options provided in the game.
+
+The availability and personalization of advertisements may depend on your consent choices and applicable privacy requirements.
+
+Mixed Match may also offer an in-app purchase that removes advertisements. Purchasing the ad-free option prevents advertisements from being displayed in the game, but information necessary to process and verify the purchase may still be processed by the applicable app store.
+
+
 Third-Party Services
+
 Mixed Match uses the following third-party services:
 
-Unity Gaming Services (including Authentication and Leaderboards) — to sign you in anonymously and to store/display leaderboard scores and display names
+Unity Gaming Services (including Authentication and Leaderboards)
 
-These services may process data (such as an anonymous player ID, display name, scores, and technical connection data) on servers operated by Unity.
-For more information, see Unity’s privacy documentation:
+Used to sign you in anonymously and to store/display leaderboard scores and display names.
+
+These services may process data such as an anonymous player ID, display name, scores, and technical connection data on servers operated by Unity.
+
+Unity Privacy Policy:
 https://unity.com/legal/privacy-policy
+
+
+Google AdMob / Google Mobile Ads
+
+Used to provide and measure advertisements and help prevent advertising fraud.
+
+Google Mobile Ads may process information such as IP address, device or advertising identifiers, app interactions, advertisement interactions, and diagnostic information.
+
+Google Privacy Policy:
+https://policies.google.com/privacy
+
+Google advertising and data information:
+https://policies.google.com/technologies/ads
+
+
+Google Play
+
+If you make an in-app purchase, such as purchasing the option to remove advertisements, the transaction is processed by Google Play. Payment information is handled by Google and is not provided directly to Jussi Games.
+
+Google Privacy Policy:
+https://policies.google.com/privacy
+
+
 Mixed Match does not sell your personal information.
+
+
 Children’s Privacy
-Mixed Match is suitable for a general audience. We do not knowingly collect personal information from children for marketing or profiling.
-Online leaderboards may show a display name and score chosen or generated in the game. If you are a parent or guardian and believe a child has
-provided information that should be removed from leaderboards, contact us using the details below.
+
+Mixed Match is intended for a general audience.
+
+We do not knowingly collect personal information from children for our own marketing or profiling purposes.
+
+Advertising and consent functionality may be subject to additional protections and restrictions based on age, region, and applicable law.
+
+Online leaderboards may show a display name and score chosen or generated in the game.
+
+If you are a parent or guardian and believe a child has provided information that should be removed from leaderboards, contact us using the details below.
+
+
 Data Retention
 
-Local data remains on your device until you clear app data or uninstall the game
-Online leaderboard entries are retained as long as the leaderboard service and the game’s online features remain active,
-or until removed in accordance with our or Unity’s practices
+Local data remains on your device until you clear the app data or uninstall the game.
+
+Online leaderboard entries are retained as long as the leaderboard service and the game’s online features remain active, or until removed in accordance with our or Unity’s practices.
+
+Advertising-related data is retained according to the policies and retention practices of Google and the applicable advertising services.
+
 
 Your Choices
 
-You can play many parts of the game without using a custom name (a default name may be used)
-You can clear local data by clearing the app storage or uninstalling the game
-Online leaderboard data is tied to an anonymous player ID on the device; uninstalling the app does not always delete online leaderboard entries automatically
+You can play many parts of the game without using a custom name; a default name may be used.
+
+You can clear local data by clearing the app storage or uninstalling the game.
+
+Online leaderboard data is tied to an anonymous player ID on the device. Uninstalling the app does not always delete online leaderboard entries automatically.
+
+Where applicable, you can choose whether to consent to certain advertising-related data processing.
+
+Where required, you can review or change your advertising privacy choices through the privacy options made available in the game.
+
+You may purchase the ad-free option, if available, to prevent advertisements from being displayed.
+
 
 Changes to This Privacy Policy
-This Privacy Policy may be updated if the game or its data practices change. The “Last updated” date at the top will be revised when changes are made.
+
+This Privacy Policy may be updated if the game or its data practices change.
+
+The “Last updated” date at the top will be revised when changes are made.
+
 The updated policy will be posted on this page.
+
+
 Contact
+
 If you have any questions about this Privacy Policy, you can contact the developer:
-Developer: Jussi (Jussi Games) jussikit@outlook.com
+
+Developer: Jussi (Jussi Games)
+Email: jussikit@outlook.com
+
 Game: Mixed Match
